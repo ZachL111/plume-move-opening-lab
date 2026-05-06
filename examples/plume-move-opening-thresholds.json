@@ -1,0 +1,17 @@
+{
+  "repo": "plume-move-opening-lab",
+  "thresholds": {
+    "signal": 4,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 4,
+    "ship": 159,
+    "watch": 113
+  },
+  "terms": [
+    "position pressure",
+    "move ordering",
+    "search width",
+    "endgame risk"
+  ]
+}
